@@ -21,7 +21,7 @@ Publications
     Download [pdf](https://arxiv.org/pdf/2603.17372)
 
 * **Interpreting Arithmetic Reasoning in Large Language Models using Game-Theoretic Interactions**. *NeurIPS 2025* \
-    Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei†, **Wen Shen†**
+    Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei, **Wen Shen†**
     Download [pdf](https://openreview.net/pdf?id=tRvzEL64dY)
 
 * **A Unified Approach to Interpreting Self-supervised Pre-training Methods for 3D Point Clouds via Interactions**. *CVPR 2025* \
