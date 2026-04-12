@@ -16,12 +16,16 @@ My research interests include explainable AI, computer vision, and AI safety.
 
 Publications
 ======
+* **Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**. *arXiv preprint 2026* \
+    Zhihua Wei\*, Qiang Li\*, Jian Ruan, Zhenxin Qin, Leilei Wen, Dongrui Liu, **Wen Shen†**
+    Download [pdf](https://arxiv.org/pdf/2603.17372)
+
 * **Interpreting Arithmetic Reasoning in Large Language Models using Game-Theoretic Interactions**. *NeurIPS 2025* \
-    Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei\*, **Wen Shen\***
+    Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei†, **Wen Shen†**
     Download [pdf](https://openreview.net/pdf?id=tRvzEL64dY)
 
 * **A Unified Approach to Interpreting Self-supervised Pre-training Methods for 3D Point Clouds via Interactions**. *CVPR 2025* \
-    Qiang Li, Jian Ruan, Fanghao Wu, Yuchi Chen, Zhihua Wei\*, **Wen Shen\***
+    Qiang Li, Jian Ruan, Fanghao Wu, Yuchi Chen, Zhihua Wei†, **Wen Shen†**
     Download [pdf](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_A_Unified_Approach_to_Interpreting_Self-supervised_Pre-training_Methods_for_3D_CVPR_2025_paper.pdf)
 
 * **Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing**. *IEEE TPAMI 2024* \
