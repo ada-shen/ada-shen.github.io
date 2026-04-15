@@ -16,6 +16,10 @@ My research interests include explainable AI, computer vision, and AI safety.
 
 Publications
 ======
+* **TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation**. *arXiv preprint 2026* \
+    Qingzhuo Wang, Leilei Wen, Juntao Chen, Kunyu Peng, Ruiyang Qin, Zhihua Wei, **Wen Shen†**
+    Download [pdf](https://arxiv.org/abs/2604.09439)
+
 * **Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**. *arXiv preprint 2026* \
     Zhihua Wei\*, Qiang Li\*, Jian Ruan, Zhenxin Qin, Leilei Wen, Dongrui Liu, **Wen Shen†**
     Download [pdf](https://arxiv.org/pdf/2603.17372)
@@ -29,29 +33,29 @@ Publications
     Download [pdf](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_A_Unified_Approach_to_Interpreting_Self-supervised_Pre-training_Methods_for_3D_CVPR_2025_paper.pdf)
 
 * **Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing**. *IEEE TPAMI 2024* \
-    **Wen Shen**, Zhihua Wei, Qihan Ren, Binbin Zhang, Shikun Huang, Jiaqi Fan, Quanshi Zhang
+    **Wen Shen**, Zhihua Wei, Qihan Ren, Binbin Zhang, Shikun Huang, Jiaqi Fan, Quanshi Zhang†
     Download [pdf](https://ieeexplore.ieee.org/abstract/document/10384563)
 
 * **Batch Normalization Is Blind to the First and Second Derivatives of the Loss**. *AAAI 2024* \
-    Zhanpeng Zhou\*, **Wen Shen\***, Huixin Chen\*, Ling Tang, Yuefeng Chen, Quanshi Zhang
+    Zhanpeng Zhou\*, **Wen Shen\***, Huixin Chen\*, Ling Tang, Yuefeng Chen, Quanshi Zhang†
     Download [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29978/31715)
 
 * **Defects of Convolutional Decoder Networks in Frequency Representation**. *ICML 2023* \
-    Ling Tang\*, **Wen Shen\***, Zhanpeng Zhou, Yuefeng Chen, Quanshi Zhang
+    Ling Tang\*, **Wen Shen\***, Zhanpeng Zhou, Yuefeng Chen, Quanshi Zhang†
     Download [pdf](https://arxiv.org/pdf/2210.09020)
 
 * **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing**. *NeurIPS 2021* \
-    **Wen Shen**, Qihan Ren, Dongrui Liu, Quanshi Zhang
+    **Wen Shen**, Qihan Ren, Dongrui Liu, Quanshi Zhang†
     Download [pdf](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf)
 
 * **Interpretable Compositional Convolutional Neural Networks**. *IJCAI 2021* \
-    **Wen Shen\***, Zhihua Wei\*, Shikun Huang, Binbin Zhang, Jiaqi Fan, Ping Zhao, Quanshi Zhang
+    **Wen Shen\***, Zhihua Wei\*, Shikun Huang, Binbin Zhang, Jiaqi Fan, Ping Zhao, Quanshi Zhang†
     Download [pdf](https://arxiv.org/abs/2107.04474)
 
 * **Verifiability and Predictability: Interpreting Utilities of Network Architectures for Point Cloud Processing**. *CVPR 2021* \
-    **Wen Shen\***, Zhihua Wei\*, Shikun Huang, Binbin Zhang, Panyue Chen, Ping Zhao, Quanshi Zhang
+    **Wen Shen\***, Zhihua Wei\*, Shikun Huang, Binbin Zhang, Panyue Chen, Ping Zhao, Quanshi Zhang†
     Download [pdf](https://arxiv.org/abs/1911.09053v3)
 
 * **3D-Rotation-Equivariant Quaternion Neural Networks**. *ECCV 2020* \
-    **Wen Shen\***, Binbin Zhang\*, Shikun Huang\*, Zhihua Wei, Quanshi Zhang
+    **Wen Shen\***, Binbin Zhang\*, Shikun Huang\*, Zhihua Wei, Quanshi Zhang†
     Download [pdf](https://arxiv.org/abs/1911.09040)
