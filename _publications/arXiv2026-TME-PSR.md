@@ -12,5 +12,3 @@ Abstract. This paper proposes a sequential recommendation model that integrates 
 Authors: Qingzhuo Wang*, Leilei Wen*, Juntao Chen, Kunyu Peng, Ruiyang Qin, Zhihua Wei, Wen Shen†.
 
 [Download paper here](https://arxiv.org/abs/2604.09439)
-
-Recommended citation: Wang, Q., Wen, L., Chen, J., Peng, K., Qin, R., Wei, Z., & Shen, W. TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation. arXiv preprint arXiv:2604.09439, 2026.

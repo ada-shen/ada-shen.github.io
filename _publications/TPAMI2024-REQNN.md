@@ -10,5 +10,3 @@ citation: 'Shen, W., Wei, Z., Ren, Q., Zhang, B., Huang, S., Fan, J., & Zhang, Q
 Abstract. This paper revises neural networks for 3D point cloud processing into rotation-equivariant quaternion neural networks, improving rotation robustness while preserving permutation invariance.
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10384563)
-
-Recommended citation: Shen, W., Wei, Z., Ren, Q., Zhang, B., Huang, S., Fan, J., & Zhang, Q. Interpretable Rotation-Equivariant Quaternion Neural Networks for 3D Point Cloud Processing. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024.

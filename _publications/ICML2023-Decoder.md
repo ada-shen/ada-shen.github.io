@@ -10,5 +10,3 @@ citation: 'Tang, L., Shen, W., Zhou, Z., Chen, Y., & Zhang, Q. Defects of Convol
 Abstract. This paper analyzes convolutional decoders in the frequency domain and identifies defects in representing high-frequency components, repeated frequencies, and shifted spectra.
 
 [Download paper here](https://arxiv.org/pdf/2210.09020)
-
-Recommended citation: Tang, L., Shen, W., Zhou, Z., Chen, Y., & Zhang, Q. Defects of Convolutional Decoder Networks in Frequency Representation. In ICML 2023.

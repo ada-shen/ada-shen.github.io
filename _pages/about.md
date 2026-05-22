@@ -16,6 +16,26 @@ My research interests include explainable AI, computer vision, and AI safety.
 
 Publications
 ======
+* **Multilingual Safety Alignment via Self-Distillation**. *arXiv preprint 2026* \
+    Ruiyang Qin\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, **Wen Shen†**
+    Download [pdf](https://arxiv.org/abs/2605.02971)
+
+* **A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions**. *ICML 2026* \
+    Qingzhuo Wang\*, Ruiyang Qin\*, Zhenxin Qin, **Wen Shen†**, Zhihua Wei†
+    Download [pdf](https://icml.cc/virtual/2026/poster/65719)
+
+* **Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions**. *ICML 2026* \
+    Ruiyang Qin, Qingzhuo Wang, Tian Wang, Zhihua Wei, **Wen Shen†**
+    Download [pdf](https://icml.cc/virtual/2026/poster/65089)
+
+* **Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement**. *ACL 2026* \
+    Zhenxin Qin, Qiang Li, Qingzhuo Wang, Ruiyang Qin, Zhihua Wei, **Wen Shen†**
+    Download [pdf](https://arxiv.org/pdf/2605.11808)
+
+* **FOSK: Fast Open-Vocabulary 3D Instance Segmentation via Consensus-Filtered Knowledge Distillation**. *ICASSP 2026* \
+    Hongrui Wu\*, Zhicheng Gao\*, Jin Cao, Kelu Yao, **Wen Shen†**, Zhihua Wei†
+    Download [pdf](https://ieeexplore.ieee.org/abstract/document/11461881/)
+
 * **TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation**. *arXiv preprint 2026* \
     Qingzhuo Wang, Leilei Wen, Juntao Chen, Kunyu Peng, Ruiyang Qin, Zhihua Wei, **Wen Shen†**
     Download [pdf](https://arxiv.org/abs/2604.09439)

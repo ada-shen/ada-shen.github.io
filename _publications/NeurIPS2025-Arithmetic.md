@@ -12,5 +12,3 @@ Abstract. This paper interprets arithmetic reasoning in large language models us
 Authors: Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei*, Wen Shen†.
 
 [Download paper here](https://openreview.net/pdf?id=tRvzEL64dY)
-
-Recommended citation: Wen, L., Zheng, L., Li, H., Sun, L., Wei, Z., & Shen, W. Interpreting Arithmetic Reasoning in Large Language Models using Game-Theoretic Interactions. In NeurIPS 2025.
