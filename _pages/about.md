@@ -48,6 +48,10 @@ Publications
     Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei, **Wen Shen†**
     Download [pdf](https://openreview.net/pdf?id=tRvzEL64dY)
 
+* **Leveraging Debiased Cross-modal Attention Maps and Code-based Reasoning for Zero-shot Referring Expression Comprehension**. *ICCV 2025* \
+    Juntao Chen, **Wen Shen†**, Zhihua Wei†, Lijun Sun†, Hongyun Zhang
+    Download [pdf](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Leveraging_Debiased_Cross-modal_Attention_Maps_and_Code-based_Reasoning_for_Zero-shot_ICCV_2025_paper.pdf)
+
 * **A Unified Approach to Interpreting Self-supervised Pre-training Methods for 3D Point Clouds via Interactions**. *CVPR 2025* \
     Qiang Li, Jian Ruan, Fanghao Wu, Yuchi Chen, Zhihua Wei†, **Wen Shen†**
     Download [pdf](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_A_Unified_Approach_to_Interpreting_Self-supervised_Pre-training_Methods_for_3D_CVPR_2025_paper.pdf)
