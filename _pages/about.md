@@ -14,12 +14,12 @@ Research Interests
 ======
 My research interests include explainable AI, computer vision, and AI safety.
 
-Publications
+Selected Publications
 ======
 \* Equal contribution; † Corresponding author.
 
 * **Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment**. *NeurIPS 2026* \
-    Lu Zhang, Chen Feng, Qingzhuo Wang, **Wen Shen†**, Zhihua Wei
+    Lu Zhang, Chen Feng, Qingzhuo Wang, **Wen Shen†**, Zhihua Wei†
     [Details](/publication/neurips2026-bridging-harmfulness-refusal)
 
 * **When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement**. *NeurIPS 2026* \
@@ -31,7 +31,7 @@ Publications
     Download [pdf](https://arxiv.org/abs/2605.02971)
 
 * **Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**. *NeurIPS 2026* \
-    Zhihua Wei\*, Qiang Li\*, Jian Ruan, Zhenxin Qin, Leilei Wen, Dongrui Liu, **Wen Shen†**
+    Zhihua Wei\*, Qiang Li\*, Jian Ruan, Zhenxin Qin, Leilei Wen, Ruiyang Qin, Qingzhuo Wang, Dongrui Liu, **Wen Shen†**
     Download [pdf](https://arxiv.org/pdf/2603.17372)
 
 * **Explaining Chain-of-Thought Reasoning in Vision-Language Models via Interactions**. *ACM MM 2026* \
