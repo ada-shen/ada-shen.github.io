@@ -19,11 +19,11 @@ Selected Publications
 \* Equal contribution; † Corresponding author.
 
 * **Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment**. *NeurIPS 2026* \
-    Lu Zhang, Chen Feng, Qingzhuo Wang, **Wen Shen†**, Zhihua Wei†
+    Lu Zhang\*, Chen Feng\*, Qingzhuo Wang, **Wen Shen†**, Zhihua Wei†
     [Details](/publication/neurips2026-bridging-harmfulness-refusal)
 
 * **When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement**. *NeurIPS 2026* \
-    Tian Wang, Shiyu Hu, Ruiyang Qin, Hanyue Zhang, Qingzhuo Wang, Shuhan Yu, Dongrui Liu, Zhihua Wei, **Wen Shen†**
+    Tian Wang\*, Shiyu Hu\*, Ruiyang Qin, Hanyue Zhang, Qingzhuo Wang, Shuhan Yu, Dongrui Liu, Zhihua Wei, **Wen Shen†**
     Download [pdf](https://openreview.net/pdf?id=4I2mGv36HD)
 
 * **Multilingual Safety Alignment via Self-Distillation**. *NeurIPS 2026* \

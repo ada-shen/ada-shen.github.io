@@ -9,8 +9,8 @@ citation: 'Wang, T., Hu, S., Qin, R., Zhang, H., Wang, Q., Yu, S., Liu, D., Wei,
 ---
 Abstract. This paper introduces Memory-to-Reasoning Alignment (MRA) to measure memory engagement during reasoning and proposes training-free Memory-Guided Activation Injection (MGAI) to improve reasoning by injecting internal memory information into reasoning representations.
 
-Authors: Tian Wang, Shiyu Hu, Ruiyang Qin, Hanyue Zhang, Qingzhuo Wang, Shuhan Yu, Dongrui Liu, Zhihua Wei, **Wen Shen†**.
+Authors: Tian Wang\*, Shiyu Hu\*, Ruiyang Qin, Hanyue Zhang, Qingzhuo Wang, Shuhan Yu, Dongrui Liu, Zhihua Wei, **Wen Shen†**.
 
-† Corresponding author.
+\* Equal contribution; † Corresponding author.
 
 [Download paper here](https://openreview.net/pdf?id=4I2mGv36HD)
