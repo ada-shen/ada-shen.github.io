@@ -16,9 +16,27 @@ My research interests include explainable AI, computer vision, and AI safety.
 
 Publications
 ======
-* **Multilingual Safety Alignment via Self-Distillation**. *arXiv preprint 2026* \
+\* Equal contribution; † Corresponding author.
+
+* **Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment**. *NeurIPS 2026* \
+    Lu Zhang, Chen Feng, Qingzhuo Wang, **Wen Shen†**, Zhihua Wei
+    [Details](/publication/neurips2026-bridging-harmfulness-refusal)
+
+* **When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement**. *NeurIPS 2026* \
+    Tian Wang, Shiyu Hu, Ruiyang Qin, Hanyue Zhang, Qingzhuo Wang, Shuhan Yu, Dongrui Liu, Zhihua Wei, **Wen Shen†**
+    Download [pdf](https://openreview.net/pdf?id=4I2mGv36HD)
+
+* **Multilingual Safety Alignment via Self-Distillation**. *NeurIPS 2026* \
     Ruiyang Qin\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, **Wen Shen†**
     Download [pdf](https://arxiv.org/abs/2605.02971)
+
+* **Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**. *NeurIPS 2026* \
+    Zhihua Wei\*, Qiang Li\*, Jian Ruan, Zhenxin Qin, Leilei Wen, Dongrui Liu, **Wen Shen†**
+    Download [pdf](https://arxiv.org/pdf/2603.17372)
+
+* **Explaining Chain-of-Thought Reasoning in Vision-Language Models via Interactions**. *ACM MM 2026* \
+    Yaying Chen\*, **Wen Shen\***, Kelu Yao, Junxiao Xue, Chenghui Lv, Jin Wang, Chao Li
+    [Details](/publication/acmmm2026-cot-interactions)
 
 * **A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions**. *ICML 2026* \
     Qingzhuo Wang\*, Ruiyang Qin\*, Zhenxin Qin, **Wen Shen†**, Zhihua Wei†
@@ -39,10 +57,6 @@ Publications
 * **TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation**. *arXiv preprint 2026* \
     Qingzhuo Wang, Leilei Wen, Juntao Chen, Kunyu Peng, Ruiyang Qin, Zhihua Wei, **Wen Shen†**
     Download [pdf](https://arxiv.org/abs/2604.09439)
-
-* **Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**. *arXiv preprint 2026* \
-    Zhihua Wei\*, Qiang Li\*, Jian Ruan, Zhenxin Qin, Leilei Wen, Dongrui Liu, **Wen Shen†**
-    Download [pdf](https://arxiv.org/pdf/2603.17372)
 
 * **Interpreting Arithmetic Reasoning in Large Language Models using Game-Theoretic Interactions**. *NeurIPS 2025* \
     Leilei Wen, Liwei Zheng, Hongda Li, Lijun Sun, Zhihua Wei, **Wen Shen†**
