@@ -19,7 +19,7 @@ Selected Publications
 \* Equal contribution; † Corresponding author.
 
 * **Bridging the Gap Between Harmfulness Belief and Refusal Behavior for Safety Alignment**. *NeurIPS 2026* \
-    Lu Zhang\*, Chen Feng\*, Qingzhuo Wang, **Wen Shen†**, Zhihua Wei†
+    Lu Zhang\*, Chen Feng\*, Qingzhuo Wang, **Wen Shen**, Zhihua Wei†
     [Details](/publication/neurips2026-bridging-harmfulness-refusal)
 
 * **When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement**. *NeurIPS 2026* \
@@ -51,7 +51,7 @@ Selected Publications
     Download [pdf](https://arxiv.org/pdf/2605.11808)
 
 * **FOSK: Fast Open-Vocabulary 3D Instance Segmentation via Consensus-Filtered Knowledge Distillation**. *ICASSP 2026* \
-    Hongrui Wu\*, Zhicheng Gao\*, Jin Cao, Kelu Yao, **Wen Shen†**, Zhihua Wei†
+    Hongrui Wu\*, Zhicheng Gao\*, Jin Cao, Kelu Yao, **Wen Shen**, Zhihua Wei†
     Download [pdf](https://ieeexplore.ieee.org/abstract/document/11461881/)
 
 * **TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation**. *arXiv preprint 2026* \
